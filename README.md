@@ -1,6 +1,9 @@
 0x00. AirBnB clone - The console
+
 Group project
+
 Python
+
 OOP
  By: Ifedayo Olympicson Akinsira-Olumide Olympicson and Simon Lephoto
  Weight: 5
@@ -9,6 +12,7 @@ OOP
  Checker will be released at Feb 11, 2023 12:00 PM
  Manual QA review must be done (request it when you are done with the project)
  An auto review will be launched at the deadline
+
 Concepts
 For this project, we expect you to look at these concepts:
 
@@ -17,13 +21,10 @@ AirBnB clone
 
 
 Background Context
+
 Welcome to the AirBnB clone project!
+
 Before starting, please read the AirBnB concept page.
-
-
-
-
-
 
 First step: Write a command interpreter to manage your AirBnB objects.
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
@@ -89,6 +90,7 @@ All your modules should have a documentation (python3 -c 'print(__import__("my_m
 All your classes should have a documentation (python3 -c 'print(__import__("my_module").MyClass.__doc__)')
 All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
 A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
+
 Python Unit Tests
 Allowed editors: vi, vim, emacs
 All your files should end with a new line
@@ -105,6 +107,7 @@ All your modules should have a documentation (python3 -c 'print(__import__("my_m
 All your classes should have a documentation (python3 -c 'print(__import__("my_module").MyClass.__doc__)')
 All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
 We strongly encourage you to work together on test cases, so that you don’t miss any edge case
+
 GitHub
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
@@ -145,9 +148,3 @@ EOF  help  quit
 (hbnb) 
 $
 All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
-
-
-
-
-
-
